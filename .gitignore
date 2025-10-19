@@ -1,0 +1,132 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+
+# Browser Extension
+*.xpi
+*.pem
+web-ext-artifacts/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.pnp/
+.pnp.js
+
+# Ollama
+.ollama/
+models/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# Local development
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Testing
+coverage/
+.nyc_output/
+.pytest_cache/
+
+# Distribution / packaging
+build/
+dist/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+coverage/
+*.lcov
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+.ionide/
+*.sublime-*
+
+# Local development
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Chrome Extension specific
+*.pem
+*.crx
+*.pem
+.package/
+web-ext-artifacts/
+
+# Ollama specific
+.ollama/
+models/
+
+# Build output
+build/
+dist/
